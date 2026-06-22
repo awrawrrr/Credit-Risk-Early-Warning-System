@@ -15,8 +15,8 @@ Develop an Early Warning Indicator framework to forecast Non Performing Financin
 
 **Key Results**
 
-* Developed a time-series based ARX model to capture dynamics of NPF behavior across portfolio segments.
-* Achieved stable forecasting performance as measured by RMSE, indicating reliable short-term predictive capability.
+* Developed a time series based ARX model to capture dynamics of NPF behavior across portfolio segments.
+* Achieved stable forecasting performance as measured by RMSE, indicating reliable short term predictive capability.
 * Identified key lagged and exogenous variables that significantly influence NPF movement across time.
 
 
